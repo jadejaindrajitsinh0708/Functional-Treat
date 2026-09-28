@@ -215,9 +215,9 @@ The project also includes an output screenshot:
 ```
 
 │
+├── README.md
 ├── main.py
-├── output.png
-└── README.md
+└── output.png
 ```
 
 ### File Description
